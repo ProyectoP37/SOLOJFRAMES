@@ -46,6 +46,8 @@ public class OakFrame extends javax.swing.JFrame {
 
         getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 230, 110));
         getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 110, 220, 40));
+
+        jButton1.setText("CONTINUAR");
         getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 150, 220, 50));
 
         pack();
